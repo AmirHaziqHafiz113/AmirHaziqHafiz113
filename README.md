@@ -93,13 +93,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AmirHaziqHafiz113&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHaziqHafiz113&hide_border=true&layout=compact" align="left" />  
-
-
-
-### Spotify track  
-<div align="center"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=2i2l535zk7nu25wgt71h9xyi2&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=2i2l535zk7nu25wgt71h9xyi2&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true" /></div>  
-
-<br/>  
+ 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=AmirHaziqHafiz113&&style=flat-square" align="center" />
