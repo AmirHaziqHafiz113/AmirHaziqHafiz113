@@ -94,8 +94,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHaziqHafiz113&hide_border=true&layout=compact" align="left" />  
 
-<br/>  <br />
-
 
 
 ### Spotify track  
@@ -106,12 +104,6 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=AmirHaziqHafiz113&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
