@@ -94,7 +94,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHaziqHafiz113&hide_border=true&layout=compact" align="left" />  
 
-<br/>  
+<br/>  <br />
 
 
 ## Recent Blog Posts  
