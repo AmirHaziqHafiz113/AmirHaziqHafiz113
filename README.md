@@ -49,7 +49,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂 Random Dev Meme
-![Random Dev Meme](https://random-meme-api.herokuapp.com/devmeme)
+![Random Dev Meme](https://dynamic-badges.maxalpha.repl.co/meme)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AmirHaziqHafiz113&icon=6&color=0)](https://visitcount.itsvg.in)
