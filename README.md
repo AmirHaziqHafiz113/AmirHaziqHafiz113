@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently looking for job <br>🌱 I’m currently learning node.js and react<br>⚡ Fun fact: I love cats
+🔭 I’m currently looking for fun <br>🌱 I’m currently learning node.js and react<br>⚡ Fun fact: I love cats
 
 
 ## 🌐 Socials:
